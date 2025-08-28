@@ -1,8 +1,16 @@
+function showBublaSkins() {
+  document.querySelector(".main-container").classList.remove("visible");
+  document.querySelector(".bubla-skins-container").classList.add("visible");
+}
+
+if (window.location.hash === "#bubla_skin_collection") {
+  showBublaSkins();
+}
+
 document.querySelectorAll(".thumbnail-overlay").forEach(function(element) {
     element.addEventListener("click", function(event) {
         if (element.parentElement.attributes.project.value !== "bubla_skin_collection") return window.open(element.parentElement.attributes.project.value);
-            document.querySelector(".main-container").classList.remove("visible");
-            document.querySelector(".bubla-skins-container").classList.add("visible");
+        showBublaSkins();
       });
 });
 

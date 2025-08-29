@@ -91,6 +91,11 @@ function formatDataForDOM(data) {
       document.querySelector(`.data-type[type="${key}"] .data-group[group="${key2}"]`).innerHTML = dataHtml[key][key2];
     });
   });
+  document.querySelectorAll(".item img").forEach(function (element) {
+    element.addEventListener("click", function() {
+      window.open(element.src);
+    });
+  });
   document.querySelectorAll(".data-type-tab").forEach(function (element) {
     element.addEventListener("click", function () {
       document.querySelectorAll(".data-type-tab").forEach(function (element) {

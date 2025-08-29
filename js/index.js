@@ -67,7 +67,7 @@ function formatDataForDOM(data) {
     const skin = data.Skins[key];
     if (skin.isItem) return (dataHtml.Skins[skin.group] += formatItem(skin, key));
 
-    let html = `<div class="bundle"><p class="bundle-name">${key}</p><div class="bundle-items">`,
+    let html = `<div class="bundle"><h2 class="bundle-name">${key}</h2><div class="bundle-items">`,
       group = null;
     Object.keys(skin).forEach(key2 => {
       html += formatItem(skin[key2], key2);

@@ -135,6 +135,10 @@ body {
   margin-top: 25px;
 }
 
+.bundle-name {
+  font-weight: 800;
+}
+
 .bundle-items {
   display: flex;
   flex-wrap: wrap;

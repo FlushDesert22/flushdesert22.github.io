@@ -28,7 +28,7 @@ document.querySelector(".github-tab").addEventListener("click", function(event) 
 });
 
 function formatItem(item, name) {
-  return `<div class="item">
+  return `<div class="item" ${!item.isMissing || item.hasReference || item.isRecreation ? `url="${item.url}"` : ""}>
           ${
             item.isMissing
               ? `<p class="overlay">This item is missing.${
@@ -91,9 +91,9 @@ function formatDataForDOM(data) {
       document.querySelector(`.data-type[type="${key}"] .data-group[group="${key2}"]`).innerHTML = dataHtml[key][key2];
     });
   });
-  document.querySelectorAll(".item img").forEach(function (element) {
+  document.querySelectorAll(".item").forEach(function (element) {
     element.addEventListener("click", function() {
-      window.open(element.src);
+      if (element.hasAttribute("url")) window.open(element.attributes.url.value);
     });
   });
   document.querySelectorAll(".data-type-tab").forEach(function (element) {

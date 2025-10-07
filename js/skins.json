@@ -1061,7 +1061,7 @@
     "Coin 2": { "group": "Extras", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": true, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Recreations/Coin 2.png" },
     "Coin 3": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Coin 3.jpg" },
     "Coin 4": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Fanix/Coin 4.png" },
-    "Coin 5": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Fanix/Coin 5.png" },
+    "Coin 5": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Globia/Coin 5.png" },
     "Bruised": { "group": "Extras", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Missing/Bruised.png" },
     "Caveman": { "group": "Extras", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Missing/Caveman.png" },
     "Dipper": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Dipper.png" },
@@ -1099,3 +1099,4 @@
     "Virus Power Up 2": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Fanix/Virus Power Up 2.png" }
   }
 }
+

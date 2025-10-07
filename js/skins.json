@@ -47,7 +47,7 @@
     "Reaper 1": { "group": "Pre-Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bubla/Reaper 1.png" },
     "Robot V.1": { "group": "Pre-Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bubla/Robot V.1.png" },
     "Samurai V.1": { "group": "Pre-Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bubla/Samurai V.1.png" },
-    "Shark 2": { "group": "Pre-Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bubla/Shark.png" },
+    "Shark": { "group": "Pre-Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bubla/Shark.png" },
     "Skeleton 1": { "group": "Pre-Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bubla/Skeleton 1.png" },
     "Skull V.1": { "group": "Pre-Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bubla/Skull V.1.png" },
     "Snail V.1": { "group": "Pre-Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bubla/Snail V.1.png" },
@@ -201,7 +201,7 @@
       "Rhino": { "group": "Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Animals/Rhino.png" },
       "Sabretooth": { "group": "Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Animals/Sabretooth.png" },
       "T-Rex": { "group": "Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Animals/T-Rex.png" },
-      "Velox": { "group": "Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Animals/Velox.png" }
+      "Velox": { "group": "Bubla.io", "isItem": true, "hasReference": true, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Animals/Velox.jpg" }
     },
     "Music": {
       "Acoustic": { "group": "Bubla.io", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Missing/Music/Acoustic.jpg" },
@@ -239,10 +239,10 @@
       "Love Potion": {
         "group": "Xgar.io",
         "isItem": true,
-        "hasReference": true,
-        "isMissing": true,
-        "isRecreation": true,
-        "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Xgar/Recreations/Valentines Day/Love Potion.png"
+        "hasReference": false,
+        "isMissing": false,
+        "isRecreation": false,
+        "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Xgar/Valentines Day/Love Potion.png"
       },
       "Teddy": { "group": "Xgar.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Xgar/Valentines Day/Teddy.png" }
     },
@@ -274,7 +274,7 @@
       "Comodo": {
         "group": "Xgar.io",
         "isItem": true,
-        "hasReference": false,
+        "hasReference": true,
         "isMissing": false,
         "isRecreation": false,
         "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Xgar/Spring 2019/Comodo.png"
@@ -288,7 +288,7 @@
         "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Xgar/Missing/Spring 2019/Flower.png"
       },
       "Lion": { "group": "Xgar.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Xgar/Spring 2019/Lion.png" },
-      "Mythical": { "group": "Xgar.io", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Xgar/Missing/Spring 2019/Mythical.png" },
+      "Mythical": { "group": "Xgar.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Xgar/Spring 2019/Mythical.png" },
       "Sunny": {
         "group": "Xgar.io",
         "isItem": true,
@@ -364,7 +364,7 @@
     "FossiledTrex": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/FossiledTrex.png" },
     "FossiledTricep": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/FossiledTricep.png" },
     "Franky": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Franky.png" },
-    "Galaxy 2": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Galaxy.png" },
+    "Galaxy": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Galaxy.png" },
     "Galox": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Galox.png" },
     "Gorilla": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Gorilla.jpg" },
     "HappyMonkey": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/HappyMonkey.png" },
@@ -396,7 +396,7 @@
     "Sea": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Sea.png" },
     "Sonic": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Sonic.png" },
     "Spaceship": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Spaceship.png" },
-    "Spider": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Spider.png" },
+    "Spider 2": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Spider 2.png" },
     "Spongebob": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Spongebob.png" },
     "Supermario": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Supermario.png" },
     "Supremus": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Supremus.png" },
@@ -406,6 +406,7 @@
     "Wormeth": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Wormeth.png" },
     "Wudu 2": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Wudu 2.png" },
     "Yoda": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Pre-Bublex/Yoda.png" },
+    "Unicorn": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Unicorn.png" },
     "Animated Alien": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Animated Alien.gif" },
     "Animated Ango": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Animated Ango.gif" },
     "Animated Lumberjack": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Animated Lumberjack.gif" },
@@ -468,23 +469,9 @@
       "Fighter": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/Fighter.png" },
       "Fireworks": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/Fireworks.png" },
       "Fishy": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/Fishy.png" },
-      "FossiledRaptor": {
-        "group": "Bublex.io",
-        "isItem": true,
-        "hasReference": false,
-        "isMissing": false,
-        "isRecreation": false,
-        "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/FossiledRaptor.png"
-      },
+      "FossiledRaptor": {"group": "Bublex.io","isItem": true,"hasReference": false,"isMissing": false,"isRecreation": false,"url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/FossiledRaptor.png"},
       "FossiledTrex": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/FossiledTrex.png" },
-      "FossiledTricep": {
-        "group": "Bublex.io",
-        "isItem": true,
-        "hasReference": false,
-        "isMissing": false,
-        "isRecreation": false,
-        "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/FossiledTricep.png"
-      },
+      "FossiledTricep": {"group": "Bublex.io","isItem": true,"hasReference": false,"isMissing": false, "isRecreation": false,"url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/FossiledTricep.png"},
       "Franky": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/Franky.png" },
       "Friday": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/Friday.png" },
       "Fries": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/Fries.png" },
@@ -603,23 +590,22 @@
       "ZackZombie": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/ZackZombie.png" },
       "Zombie": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Resized and Bordered/Zombie.png" }
     },
-    "Unicorn": { "group": "Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bublex/Unicorn.png" },
     "Baby Octopus": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Baby Octopus.png" },
     "Batman": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Batman.png" },
     "Black Panther": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Black Panther.png" },
     "Christmas Tree": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Christmas Tree.png" },
     "Cleopatra": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Cleopatra.png" },
     "Dino": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Dino.png" },
-    "Fox": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Fox.png" },
-    "Galaxy": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Galaxy.png" },
+    "Fox 2": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Fox 2.png" },
+    "Galaxy 2": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Galaxy 2.png" },
     "Grenade": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Grenade.png" },
     "Iron Man": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Iron Man.png" },
-    "Kraken 3": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Kraken.png" },
+    "Kraken 3": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Kraken 3.png" },
     "Lexa": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Lexa.png" },
     "Mouth": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Mouth.png" },
-    "Pumpkin": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Pumpkin.png" },
-    "Santa Claus": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Santa Claus.png" },
-    "Shark": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Shark.png" },
+    "Pumpkin 3": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Pumpkin 3.png" },
+    "Santa Claus 2": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Santa Claus 2.png" },
+    "Shark 2": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Shark.png" },
     "Skull": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Skull.png" },
     "Smiley": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Smiley.png" },
     "Spider Man": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Spider Man.png" },
@@ -627,6 +613,222 @@
     "Wanheda": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Wanheda.png" },
     "Xmas Monkey": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Xmas Monkey.png" },
     "Yoxy": { "group": "Sphera_Connect.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Sphera_Connect/Yoxy.png" },
+    "Abyssal": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Abyssal.png"
+    },
+    "Alien Eye": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Alien Eye.png"
+    },
+    "Angry Witch": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Angry Witch.png"
+    },
+    "Antique Key": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Antique Key.png"
+    },
+    "Bear 2": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Bear 2.png"
+    },
+    "Blazeguard": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Blazeguard.png"
+    },
+    "Bowman": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Bowman.png"
+    },
+    "Bunny 2": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Bunny 2.png"
+    },
+    "Castle": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Castle.png"
+    },
+    "Decoration": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Decoration.png"
+    },
+    "Devil": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Devil.png"
+    },
+    "Dinosaur": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Dinosaur.png"
+    },
+    "Fishy 2": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Fishy 2.png"
+    },
+    "Hexora": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Hexora.png"
+    },
+    "Horse": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Horse.png"
+    },
+    "Jellyfish": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Jellyfish.png"
+    },
+    "Noctyra": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Noctyra.png"
+    },
+    "Oculys": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Oculys.png"
+    },
+    "Pelican": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Pelican.png"
+    },
+    "Phasmoir": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Phasmoir.png"
+    },
+    "Potion": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Potion.png"
+    },
+    "Pumpkron": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Pumpkron.png"
+    },
+    "Siren": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Siren.png"
+    },
+    "The Knight": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/The Knight.png"
+    },
+    "The Queen": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/The Queen.png"
+    },
+    "Water drop": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Water drop.png"
+    },
+    "Wolf": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Wolf.png"
+    },
     "Stussy": { "group": "Staff", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Staff/Missing/Stussy.png" },
     "Zero": {
       "group": "Staff",
@@ -824,7 +1026,7 @@
     },
     "Tiara": { "group": "Xgar.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Hats/Xgar/Tiara.png" },
     "Umbrella": { "group": "Xgar.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Hats/Xgar/Umbrella.png" },
-    "Wizard 2": {
+    "Wizard": {
       "group": "Xgar.io",
       "isItem": true,
       "hasReference": true,
@@ -849,7 +1051,7 @@
     "Santa Hat": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Hats/Pre-Bublex/Santa Hat.png" },
     "Trex": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Hats/Pre-Bublex/Trex.png" },
     "Vintage": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Hats/Pre-Bublex/Vintage.png" },
-    "Wizard": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Hats/Pre-Bublex/Wizard.png" },
+    "Wizard 2": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Hats/Pre-Bublex/Wizard 2.png" },
     "YouTube": { "group": "Pre-Bublex.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Hats/Pre-Bublex/YouTube.png" },
     "Jurassic": { "group": "Staff", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Hats/Staff/Jurassic.png" },
     "BubbleBALZ": { "group": "YouTubers", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Hats/YouTubers/BubbleBALZ.png" }
@@ -858,11 +1060,12 @@
     "Coin 1": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Coin 1.png" },
     "Coin 2": { "group": "Extras", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": true, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Recreations/Coin 2.png" },
     "Coin 3": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Coin 3.jpg" },
+    "Coin 4": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Fanix/Coin 4.png" },
+    "Coin 5": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Fanix/Coin 5.png" },
     "Bruised": { "group": "Extras", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Missing/Bruised.png" },
     "Caveman": { "group": "Extras", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Missing/Caveman.png" },
     "Dipper": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Dipper.png" },
     "Lumberjack": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bubla/Lumberjack.png" },
-    "Coin 4": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Fanix/Coin 4.png" },
     "Bublex Radio": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bublex/Bublex Radio.png" },
     "Coin Block": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Bublex/Coin Block.webp" },
     "Portal": { "group": "Extras", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": true, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Fanix/Recreations/Portal.png" },
@@ -896,6 +1099,3 @@
     "Virus Power Up 2": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Fanix/Virus Power Up 2.png" }
   }
 }
-
-
-

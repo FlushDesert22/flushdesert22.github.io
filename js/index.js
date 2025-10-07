@@ -51,6 +51,7 @@ function formatDataForDOM(data) {
       "Pre-Bublex.io": "",
       "Bublex.io": "",
       "Sphera_Connect.io": "",
+      "Globia.io": "",
       Staff: "",
       YouTubers: "",
     },

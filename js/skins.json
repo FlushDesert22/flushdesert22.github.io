@@ -201,7 +201,7 @@
       "Rhino": { "group": "Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Animals/Rhino.png" },
       "Sabretooth": { "group": "Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Animals/Sabretooth.png" },
       "T-Rex": { "group": "Bubla.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Animals/T-Rex.png" },
-      "Velox": { "group": "Bubla.io", "isItem": true, "hasReference": true, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Animals/Velox.jpg" }
+      "Velox": { "group": "Bubla.io", "isItem": true, "hasReference": true, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Animals/Velox.png" }
     },
     "Music": {
       "Acoustic": { "group": "Bubla.io", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Bubla/Missing/Music/Acoustic.jpg" },
@@ -1099,4 +1099,5 @@
     "Virus Power Up 2": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Fanix/Virus Power Up 2.png" }
   }
 }
+
 

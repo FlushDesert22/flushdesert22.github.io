@@ -319,8 +319,8 @@
     "Christmas 2019": {
       "Evil Santa": { "group": "Fanix.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Fanix/Christmas/Evil Santa.png" },
       "Evil Snowman": { "group": "Fanix.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Fanix/Christmas/Evil Snowman.png" },
-      "Good Santa": { "group": "Fanix.io", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Fanix/Missing/Christmas/Good Santa.png" },
-      "Snowman 2": { "group": "Fanix.io", "isItem": true, "hasReference": true, "isMissing": true, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Fanix/Missing/Christmas/Snowman 2.png" }
+      "Santa": { "group": "Fanix.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Fanix/Christmas/Santa.png" },
+      "Snowman 2": { "group": "Fanix.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Fanix/Christmas/Snowman 2.png" }
     },
     "Space": {
       "Earth": { "group": "Fanix.io", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Fanix/Space/Earth.png" },
@@ -1099,5 +1099,6 @@
     "Virus Power Up 2": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Fanix/Virus Power Up 2.png" }
   }
 }
+
 
 

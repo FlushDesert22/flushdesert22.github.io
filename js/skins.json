@@ -749,6 +749,14 @@
       "isRecreation": false,
       "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Noctyra.png"
     },
+    "Nuke": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Nuke.png"
+    },
     "Oculys": {
       "group": "Globia.io",
       "isItem": true,
@@ -788,6 +796,14 @@
       "isMissing": false,
       "isRecreation": false,
       "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Pumpkron.png"
+    },
+    "Raider": {
+      "group": "Globia.io",
+      "isItem": true,
+      "hasReference": false,
+      "isMissing": false,
+      "isRecreation": false,
+      "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Skins/Globia/Raider.png"
     },
     "Siren": {
       "group": "Globia.io",
@@ -1099,6 +1115,7 @@
     "Virus Power Up 2": { "group": "Extras", "isItem": true, "hasReference": false, "isMissing": false, "isRecreation": false, "url": "https://raw.githubusercontent.com/FlushDesert22/Bubla-Skin-Archive/refs/heads/main/Extras/Fanix/Virus Power Up 2.png" }
   }
 }
+
 
 
 
